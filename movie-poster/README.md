@@ -14,7 +14,7 @@ You will be using the [Open Movie Database API](http://omdbapi.com/).
 
 #### Spoilers
 <details>
-<summary>**I give up, what endpoint do I need to hit?** (Click Here)</summary>
+<summary>**What endpoint do I need to hit?** (Click Here)</summary>
 `http://www.omdbapi.com/?t=avatar`
 </details>
 

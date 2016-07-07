@@ -12,6 +12,6 @@ You will be using the [City Bikes API](http://api.citybik.es/v2/).
 
 #### Spoilers
 <details>
-<summary>**I give up, what endpoint do I need to hit?** (Click Here)</summary>
+<summary>**What endpoint do I need to hit?** (Click Here)</summary>
 `http://api.citybik.es/v2/networks/bay-area-bike-share`
 </details>

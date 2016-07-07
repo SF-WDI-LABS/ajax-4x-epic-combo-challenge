@@ -20,37 +20,62 @@
   </head>
   <body>
     <div class="container">
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2">
+      <div class="col-md-8 col-md-offset-2">
+        <div class="row">
           <h1>Who submitted Homework?</h1>
-          <!-- EXAMPLE STUDENT -->
-          <div class="students-grid row">
-            <div class="student text-center col-sm-6 col-md-4">
-              <img src="https://api.adorable.io/avatars/face/eyes8/nose1/mouth11/B4D455">
-              <a href="http://github.com/persnickettysam">persnickettysam</a>
-            </div>
-            <div class="student text-center col-sm-6 col-md-4">
-              <img src="https://api.adorable.io/avatars/face/eyes8/nose1/mouth11/B4D455">
-              <a href="http://github.com/persnickettysam">persnickettysam</a>
-            </div>
-            <div class="student text-center col-sm-6 col-md-4">
-              <img src="https://api.adorable.io/avatars/face/eyes8/nose1/mouth11/B4D455">
-              <a href="http://github.com/persnickettysam">persnickettysam</a>
-            </div>
-            <div class="student text-center col-sm-6 col-md-4">
-              <img src="https://api.adorable.io/avatars/face/eyes8/nose1/mouth11/B4D455">
-              <a href="http://github.com/persnickettysam">persnickettysam</a>
-            </div>
-            <div class="student text-center col-sm-6 col-md-4">
-              <img src="https://api.adorable.io/avatars/face/eyes8/nose1/mouth11/B4D455">
-              <a href="http://github.com/persnickettysam">persnickettysam</a>
-            </div>
-            <div class="student text-center col-sm-6 col-md-4">
-              <img src="https://api.adorable.io/avatars/face/eyes8/nose1/mouth11/B4D455">
-              <a href="http://github.com/persnickettysam">persnickettysam</a>
-            </div>
+          <div class="col-sm-offset-2 col-sm-8">
+              <input class="form-control" name="cohort" value="sf-wdi-30" disabled>
+              <input  class="form-control" name="repo" value="problem-set-js-basics" placeholder="homework repo name" focus>
+              <button class="btn btn-primary btn-block">Go!</button>
           </div>
         </div>
+
+        <div class="row">
+          <div class="lead text-center">
+            <span id="submission-count">5</span>/<span id="student-count">6</span> submissions
+          </div>
+        </div>
+
+        <!-- BEGIN EXAMPLE STUDENT GRID -->
+        <div class="students-grid row">
+          <div class="student text-center col-xs-6 col-sm-4">
+            <a href="http://github.com/persnickettysam">
+              <img src="https://api.adorable.io/avatars/face/eyes8/nose1/mouth11/B4D455">
+              <div>persnickettysam</div>
+            </a>
+          </div>
+          <div class="student no-homework text-center col-xs-6 col-sm-4">
+            <a href="http://github.com/snappysue">
+              <img src="https://api.adorable.io/avatars/face/eyes7/nose2/mouth10/B4D455">
+              <div>snappysue</div>
+            </a>
+          </div>
+          <div class="student text-center col-xs-6 col-sm-4">
+            <a href="http://github.com/persnickettysam">
+              <img src="https://api.adorable.io/avatars/face/eyes8/nose1/mouth11/B4D455">
+              <div>persnickettysam</div>
+            </a>
+          </div>
+          <div class="student text-center col-xs-6 col-sm-4">
+            <a href="http://github.com/snappysue">
+              <img src="https://api.adorable.io/avatars/face/eyes7/nose2/mouth10/B4D455">
+              <div>snappysue</div>
+            </a>
+          </div>
+          <div class="student text-center col-xs-6 col-sm-4">
+            <a href="http://github.com/snappysue">
+              <img src="https://api.adorable.io/avatars/face/eyes7/nose2/mouth10/B4D455">
+              <div>snappysue</div>
+            </a>
+          </div>
+          <div class="student text-center col-xs-6 col-sm-4">
+            <a href="http://github.com/persnickettysam">
+              <img src="https://api.adorable.io/avatars/face/eyes8/nose1/mouth11/B4D455">
+              <div>persnickettysam</div>
+            </a>
+          </div>
+        </div> <!-- END EXAMPLE STUDENT GRID -->
+
       </div>
     </div>
   </body>

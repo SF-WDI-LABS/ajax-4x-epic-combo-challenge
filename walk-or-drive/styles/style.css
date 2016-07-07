@@ -8,3 +8,15 @@ h1 {
   margin-top: 100px;
   text-align: center;
 }
+
+img {
+  height: 200px;
+}
+
+.option {
+  border: 2px solid white;
+  height: 250px;
+}
+.selected {
+  border: 2px dashed yellow;
+}

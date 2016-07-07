@@ -12,6 +12,6 @@ You will be using the [Forecast.io API](https://developer.forecast.io/).
 
 #### Spoilers
 <details>
-<summary>**I give up, what endpoint do I need to hit?** (Click Here)</summary>
+<summary>**What endpoint do I need to hit?** (Click Here)</summary>
 `https://api.forecast.io/forecast/e626615d1a97d255ca1d2cb86d0e5f80/37.8267,-122.423`
 </details>
