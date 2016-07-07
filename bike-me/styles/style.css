@@ -1,0 +1,14 @@
+body {
+  color: #333;
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #c9d7c0; /* Sanity Check! */
+}
+
+h1 {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.giant {
+  font-size: 10em;
+}
