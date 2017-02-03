@@ -8,7 +8,6 @@ Four times together kicking API JSON and rapid turning website glory! Joining to
 2. [Should I walk or drive?](/walk-or-drive) (Forecast.io Weather API)
 3. [Can I share a bike?](/bike-me) (City Bikes API)
 4. [Did everyone submit homework?](/github-homework) (Github API)
-    
 
 ## Setup
 Please clone this repo.
@@ -23,3 +22,25 @@ For each challenge:
 5. Render the page.
 
 > We encourage you to work together and be creative! There is no *one* way to solve these challenges.
+
+## Screenshots
+
+####What's your favorite movie?
+<img width="500" alt="screen shot 2017-02-03 at 12 05 18 pm" src="https://cloud.githubusercontent.com/assets/1489337/22606592/44d46ef6-ea09-11e6-8f87-d5bd1327315e.png">
+
+<hr>
+
+####Should I walk or drive?
+<img width="500" alt="screen shot 2017-02-03 at 12 05 34 pm" src="https://cloud.githubusercontent.com/assets/1489337/22606629/5e297e96-ea09-11e6-8cb1-b7399eba5c3c.png">
+
+<hr>
+
+####Can I share a bike?
+<img width="500" alt="screen shot 2017-02-03 at 12 04 40 pm" src="https://cloud.githubusercontent.com/assets/1489337/22606569/2e0080f2-ea09-11e6-9505-ffe9caa5c669.png">
+
+<hr>
+
+####Did everyone submit homework?
+<img width="500" alt="screen shot 2017-02-03 at 12 05 06 pm" src="https://cloud.githubusercontent.com/assets/1489337/22606642/6d247536-ea09-11e6-908e-07e22befe71a.png">
+
+<hr>
