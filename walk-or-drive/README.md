@@ -1,8 +1,8 @@
 ## Should I Walk or Drive?
 
-You will be using the [Forecast.io API](https://developer.forecast.io/).
+You will be using the [Weather Underground API](https://www.wunderground.com/weather/api/).
 
-> You will need an api token. Please register for an account.
+> You will need an api token. Please register for an account. Unfortunately you may have to wait a day.
 
 #### Challenge
 * Assuming I leave the house right away, what kind of weather can I expect?
@@ -13,5 +13,8 @@ You will be using the [Forecast.io API](https://developer.forecast.io/).
 #### Spoilers
 <details>
 <summary>**What endpoint do I need to hit?** (Click Here)</summary>
-`https://api.forecast.io/forecast/e626615d1a97d255ca1d2cb86d0e5f80/37.8267,-122.423`
+You will need to swap in your own token (e.g. `8ebb815a38f869e1`):
+
+`https://api.wunderground.com/api/8ebb815a38f869e1/conditions/q/CA/San_Francisco.json`
+
 </details>

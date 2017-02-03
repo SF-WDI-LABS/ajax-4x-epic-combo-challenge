@@ -5,7 +5,7 @@
 Four times together kicking API JSON and rapid turning website glory! Joining together with AJAX to display:
 
 1. [What's your favorite movie?](/movie-poster) (Open Movie Database API)
-2. [Should I walk or drive?](/walk-or-drive) (Forecast.io Weather API)
+2. [Should I walk or drive?](/walk-or-drive) (Weather Undergrond API)
 3. [Can I share a bike?](/bike-me) (City Bikes API)
 4. [Did everyone submit homework?](/github-homework) (Github API)
 
